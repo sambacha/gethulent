@@ -1,0 +1,43 @@
+# github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6
+github.com/StackExchange/wmi
+# github.com/aristanetworks/goarista v0.0.0-20170210015632-ea17b1a17847
+github.com/aristanetworks/goarista/monotime
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/deckarep/golang-set v0.0.0-20180603214616-504e848d77ea
+github.com/deckarep/golang-set
+# github.com/ethereum/go-ethereum v1.9.25
+## explicit
+github.com/ethereum/go-ethereum/common
+github.com/ethereum/go-ethereum/common/hexutil
+github.com/ethereum/go-ethereum/common/mclock
+github.com/ethereum/go-ethereum/log
+github.com/ethereum/go-ethereum/metrics
+github.com/ethereum/go-ethereum/p2p/netutil
+github.com/ethereum/go-ethereum/rpc
+# github.com/go-ole/go-ole v1.2.1
+github.com/go-ole/go-ole
+github.com/go-ole/go-ole/oleutil
+# github.com/go-stack/stack v1.8.0
+github.com/go-stack/stack
+# github.com/gorilla/websocket v1.4.1-0.20190629185528-ae1634f6a989
+github.com/gorilla/websocket
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/shirou/gopsutil v2.20.5+incompatible
+github.com/shirou/gopsutil/cpu
+github.com/shirou/gopsutil/internal/common
+# github.com/stretchr/testify v1.7.0
+## explicit
+github.com/stretchr/testify/assert
+# golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+golang.org/x/crypto/sha3
+# golang.org/x/sys v0.0.0-20200824131525-c12d262b63d8
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
+gopkg.in/natefinch/npipe.v2
+# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+gopkg.in/yaml.v3
