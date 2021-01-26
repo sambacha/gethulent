@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+
+*.tgz
+*.tar.gz
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+*.log
